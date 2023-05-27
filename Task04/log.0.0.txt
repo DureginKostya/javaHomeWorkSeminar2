@@ -1,0 +1,2 @@
+мая 27, 2023 8:13:21 PM Calc printResult
+INFO: 15.0
